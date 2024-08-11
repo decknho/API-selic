@@ -28,4 +28,4 @@ while meses != 1:
     meses -= 1
 print(f"você guardou R${guardou}")
 rendeu = saldo - guardou
-print(f"{rendeu: .2f}")
+print(f"Rendeu R${rendeu: .2f}")
